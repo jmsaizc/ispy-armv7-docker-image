@@ -1,6 +1,6 @@
 # iSpy-armv7-docker-image
 
-**iSpy dockerfile for armv7 devices like raspberry pi**
+**iSpy Dockerfile for armv7 devices like raspberry pi**
 
 iSpy is the world’s most popular open source video surveillance application. It's compatible with the the vast majority of consumer webcams and IP cameras.
 
